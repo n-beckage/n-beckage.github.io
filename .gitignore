@@ -39,5 +39,6 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# don't think I need this?
-/.sass-cache/*
+# don't think I need these?
+.sass-cache/
+.jekyll-cache/
