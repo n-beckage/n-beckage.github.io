@@ -1,0 +1,7 @@
+---
+author: Noah
+---
+
+Jellyfish are some of the strangest organisms on planet Earth. They remind me more of biological programs, written in the language of chemistry and executed on earth.io. They sort of just float around the ocean, hardly any agency of their own. Everything about them just seems automatic. They have no brain at all. What is their purpose? 
+
+Is it intrinsic to their being or defined by their relationships and interactions with the environment? What does it even mean to have a purpose? A suppose to have a purpose implies the existence of an agent with a limited perspective from which a purpose can be projected. For a shrimp (do jellyfish eat shrimp?) the purpose of the jellyfish may be to kill shrimp. Depending on which kind of human you ask, a jellyfish might have several purposes. We might say they fulfill some ecological niche, or that they inspire beauty. But intrinsically, without projecting human agents, they are purposeless Jellyfish simply exist, an automated, self-replicating machine built out of carbon. Ephemeral, untethered, dulling simply and yet fantastically complex. Jellyfish remind us that we too are ultimately purposeless; incredibly complex, self-replicating biological machines miraculously capable of contemplating their own existence. They remind us that existence at all is a gift, one worth cherishing while we can.

@@ -1,0 +1,24 @@
+collections:
+  ds_projects:
+    output: true
+    
+defaults:
+  - scope:
+      path: ""
+      type: "ds_projects"
+    values:
+      layout: "ds_project"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+plugins:
+  - jekyll-feed
+#  - jekyll-sitemap
+#  - jekyll-seo-tag

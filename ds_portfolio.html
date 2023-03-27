@@ -1,0 +1,13 @@
+---
+title: Data Science Portfolio
+page_name: Data Science Portfolio
+---
+
+<ul>
+  {% for project in site.ds_projects %}
+    <li>
+      <h2><a href="{{project.url}}">{{ project.topic }}</a></h2>
+      {{ project.content }}
+    </li>
+  {% endfor %}
+</ul>
